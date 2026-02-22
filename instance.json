@@ -239,6 +239,17 @@
         "userAdded": true,
         "wasSelected": true,
         "skipped": false
+      },
+      {
+        "name": "COBBLEVERSE Soundtrack.zip",
+        "version": "Unknown",
+        "optional": true,
+        "file": "COBBLEVERSE Soundtrack.zip",
+        "type": "resourcepack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
       }
     ],
     "ignoredUpdates": [],
@@ -246,7 +257,7 @@
     "vanillaInstance": true,
     "lastPlayed": 1771614413188,
     "numPlays": 4,
-    "lastExportName": "COBBLEVERSE NeoForge - Pokemon Adventure [Cobblemon] My Test",
+    "lastExportName": "COBBLEVERSE NeoForge - Pokemon Adventure [Cobblemon]",
     "lastExportVersion": "1.21.1",
     "lastExportAuthor": "Welperino",
     "lastExportSaveTo": "/home/matt/.local/share/atlauncher/instances/COBBLEVERSENeoForgePokemonAdventureCobblemon"
