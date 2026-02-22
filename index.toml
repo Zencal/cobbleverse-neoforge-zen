@@ -925,6 +925,11 @@ hash = "5e3421b58c8c905e686ed7b63d2fe086fe3265009347ca01aba99f13cb8edca3"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "8071f5bd344fcf5c1ecfd4dbf8830fcab70052931fdf17f372356df2e5bbb7b5"
 metafile = true
@@ -1004,6 +1009,11 @@ hash = "418e00920f24ef960858eec94feaa9ea7361ca2b53dda230efee45c2fbd50576"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-create-industries.pw.toml"
+hash = "1293a640844bb49123c1784e6744989c2ac903860b6e869ef1d313ff61632237"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "63d31d5820a5fe31ddee48ecfe5d03acb56c56d16e7b64e940ef664127d220d4"
 metafile = true
@@ -1048,8 +1058,23 @@ hash = "f4a9d50719c9c95018140732ed7aae4f071dc3317e5c74d6d7b00d7809cbead9"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-trials-edition.pw.toml"
+hash = "7f7adf15a53b4004c735bc60b5ace1f5fe9759c66ec01ad2acff12ab044a0182"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "0477b9e0610e8ebdf5ce633687a08eb9ee86be6d3c244b2b6d291491bc8940fa"
+metafile = true
+
+[[files]]
+file = "mods/cobblemore-library.pw.toml"
+hash = "cf4cb0b27f637954e20c73efa13d5ac2f543f1fad5a1e8dd344aeef678de8979"
 metafile = true
 
 [[files]]
@@ -1093,8 +1118,38 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/cozy-home.pw.toml"
 hash = "6aa44ff1dbd68bd6395d5a8a8d112a3abebcc55a9b9aea2300a9c8e0c7e64444"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "693cd91c93dd402b03efb5dfc76eee3ad01099b20b9a2cfdf72c26277bc7bba9"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
@@ -1260,6 +1315,11 @@ metafile = true
 [[files]]
 file = "mods/interactic.pw.toml"
 hash = "e4fde167c45beaffec1960af85d04d41c5ed8952849b61bcdc7a29831c3397fb"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
@@ -1525,6 +1585,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "a12227faef5279cf7afbf3520aed9b23438f309ec9b39463aaf7285a84a0fc78"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "e6bb3eeda43411c95fa84549ba3281df62654e36140ec322190206fc8df512a4"
 metafile = true
 
 [[files]]
