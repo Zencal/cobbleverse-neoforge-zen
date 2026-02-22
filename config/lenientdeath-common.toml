@@ -1,0 +1,145 @@
+[General]
+	#Enable preserving items on death / 是否启用死亡保留物品
+	enabled = true
+
+[Randomizer]
+	#Enable random preservation for leftover items / 是否对剩余物品启用随机保留
+	enabled = false
+	#Base random keep chance percent / 基础随机保留概率（百分比）
+	# Default: 25
+	# Range: 0 ~ 100
+	chancePercent = 25
+	#Luck additive factor percent / 幸运值附加因子（百分比）
+	# Default: 20
+	# Range: 0 ~ 100
+	luckAdditive = 20
+	#Luck multiplier factor / 幸运值乘算因子
+	# Default: 0.0
+	# Range: 0.0 ~ 10.0
+	luckMultiplier = 0.0
+
+[NBT]
+	#Preserve items with specific NBT tag / 是否根据 NBT 标记保留物品
+	enabled = false
+	#NBT boolean key used for soulbound-like behavior / 用于灵魂绑定的 NBT 布尔键名
+	nbtKey = "Soulbound"
+
+[Lists]
+	#List of Item IDs to always preserve (e.g. 'minecraft:apple') / 始终保留的物品 ID 列表
+	alwaysPreservedItems = ["cobblemon:pokedex_red", "cobblemon:pokedex_blue", "cobblemon:pokedex_black", "cobblemon:pokedex_green", "cobblemon:pokedex_pink", "cobblemon:pokedex_yellow", "cobblemon:pokedex_white", "cobblemon:master_ball", "cobblemon:ancient_origin_ball", "rctmod:trainer_card", "sophisticatedbackpacks:backpack", "sophisticatedbackpacks:copper_backpack", "sophisticatedbackpacks:iron_backpack", "sophisticatedbackpacks:gold_backpack", "sophisticatedbackpacks:diamond_backpack", "sophisticatedbackpacks:netherite_backpack", "minecraft:written_book", "minecraft:filled_map", "mega_showdown:mega_bracelet", "mega_showdown:mega_bracelet_blue", "mega_showdown:mega_bracelet_red", "mega_showdown:mega_bracelet_black", "mega_showdown:mega_bracelet_green", "mega_showdown:mega_bracelet_yellow", "mega_showdown:mega_bracelet_pink", "mega_showdown:may_bracelet", "mega_showdown:mega_ring", "mega_showdown:lysandre_ring", "mega_showdown:brendan_mega_cuff", "mega_showdown:korrina_glove", "mega_showdown:maxie_glasses", "mega_showdown:archie_anchor", "mega_showdown:lisia_mega_tiara", "mega_showdown:tera_orb", "mega_showdown:omni_ring", "mega_showdown:z_ring", "mega_showdown:z_ring_black", "mega_showdown:z_ring_yellow", "mega_showdown:z_ring_green", "mega_showdown:z_ring_blue", "mega_showdown:z_ring_pink", "mega_showdown:z_ring_red", "mega_showdown:z_power_ring", "mega_showdown:olivias_z_ring", "mega_showdown:olivia_z_power_ring", "mega_showdown:hapus_z_ring", "mega_showdown:hapus_z_power_ring", "mega_showdown:rocket_z_power_ring", "mega_showdown:gladion_z_power_ring", "mega_showdown:nanu_z_power_ring", "mega_showdown:dynamax_band", "cobbleversebadges:kanto_boulder_badge", "cobbleversebadges:kanto_cascade_badge", "cobbleversebadges:kanto_thunder_badge", "cobbleversebadges:kanto_rainbow_badge", "cobbleversebadges:kanto_soul_badge", "cobbleversebadges:kanto_marsh_badge", "cobbleversebadges:kanto_volcano_badge", "cobbleversebadges:kanto_earth_badge", "cobbleversebadges:johto_zephyr_badge", "cobbleversebadges:johto_hive_badge", "cobbleversebadges:johto_plain_badge", "cobbleversebadges:johto_fog_badge", "cobbleversebadges:johto_storm_badge", "cobbleversebadges:johto_mineral_badge", "cobbleversebadges:johto_glacier_badge", "cobbleversebadges:johto_rising_badge", "cobbleversebadges:hoenn_stone_badge", "cobbleversebadges:hoenn_knuckle_badge", "cobbleversebadges:hoenn_dynamo_badge", "cobbleversebadges:hoenn_heat_badge", "cobbleversebadges:hoenn_balance_badge", "cobbleversebadges:hoenn_feather_badge", "cobbleversebadges:hoenn_mind_badge", "cobbleversebadges:hoenn_rain_badge", "cobbleversebadges:sinnoh_coal_badge", "cobbleversebadges:sinnoh_forest_badge", "cobbleversebadges:sinnoh_cobble_badge", "cobbleversebadges:sinnoh_fen_badge", "cobbleversebadges:sinnoh_relic_badge", "cobbleversebadges:sinnoh_mine_badge", "cobbleversebadges:sinnoh_icicle_badge", "cobbleversebadges:sinnoh_beacon_badge", "cobbleversebadges:kanto_league_trophy", "cobbleversebadges:johto_league_trophy", "cobbleversebadges:hoenn_league_trophy", "cobbleversebadges:sinnoh_league_trophy", "cobbleversebadges:kanto_badge_box", "cobbleversebadges:johto_badge_box", "cobbleversebadges:hoenn_badge_box", "cobbleversebadges:sinnoh_badge_box", "lumymon:apricorn_box", "lumymon:magma_stone", "lumymon:red_chain", "lumymon:broken_red_chain", "lumymon:prof_oak_letter", "obc:bottle_cap", "obc:bottle_cap_hp", "obc:bottle_cap_attack", "obc:bottle_cap_defence", "obc:bottle_cap_special_attack", "obc:bottle_cap_special_defence", "obc:bottle_cap_speed", "obc:bottle_cap_gold"]
+	#List of Item Tags to always preserve (e.g. 'minecraft:logs') / 始终保留的物品标签列表
+	alwaysPreservedTags = ["lenientdeath:safe"]
+	#List of Item IDs to always drop / 始终掉落的物品 ID 列表
+	alwaysDroppedItems = []
+	#List of Item Tags to always drop / 始终掉落的物品标签列表
+	alwaysDroppedTags = []
+
+[ItemTypes]
+	#Enable filtering by item type / 是否启用按物品类型规则筛选
+	enabled = false
+	#Rule for helmets / 头盔规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	helmets = "PRESERVE"
+	#Rule for chestplates / 胸甲规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	chestplates = "PRESERVE"
+	#Rule for leggings / 护腿规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	leggings = "PRESERVE"
+	#Rule for boots / 靴子规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	boots = "PRESERVE"
+	#Rule for elytras / 鞘翅规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	elytras = "PRESERVE"
+	#Rule for shields / 盾牌规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	shields = "PRESERVE"
+	#Pickaxes, axes, shovels, hoes / 工具类规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	tools = "PRESERVE"
+	#All weapons (melee + ranged) / 武器总规则（近战+远程）
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	weapons = "PRESERVE"
+	#Swords, maces, tridents / 近战武器规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	meleeWeapons = "IGNORE"
+	#Bows, crossbows, projectile weapons / 远程武器规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	rangedWeapons = "IGNORE"
+	#Shears, flint and steel, etc / 功能工具规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	utilityTools = "IGNORE"
+	#Fishing rods / 钓鱼竿规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	fishingRods = "IGNORE"
+	#Buckets including milk bucket / 桶类物品规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	buckets = "IGNORE"
+	#Enchanted books / 附魔书规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	enchantedBooks = "IGNORE"
+	#Totem of Undying / 不死图腾规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	totems = "IGNORE"
+	#Items that place blocks / 方块物品规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	blockItems = "IGNORE"
+	#Spawn eggs / 刷怪蛋规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	spawnEggs = "IGNORE"
+	#Arrows, tipped/spectral arrows / 箭矢规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	arrows = "IGNORE"
+	#Rule for edible items / 食物规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	food = "PRESERVE"
+	#Rule for potions / 药水规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	potions = "PRESERVE"
+	#Curios/Trinkets support / Curios 饰品规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	curios = "PRESERVE"
+
+[Features]
+	#Show death coordinates / 是否显示死亡坐标
+	deathCoordinates = true
+	#Enable private owner-only item highlight / 是否启用仅归属玩家可见高亮
+	itemGlow = true
+	#Private highlight scan interval (ticks) / 私有高亮扫描间隔（tick）
+	# Default: 10
+	# Range: 1 ~ 200
+	privateHighlightScanIntervalTicks = 10
+	#Private highlight scan radius / 私有高亮扫描半径
+	# Default: 96.0
+	# Range: 8.0 ~ 256.0
+	privateHighlightScanRadius = 96.0
+	#Max entities processed per highlight scan / 每次高亮扫描最大处理实体数
+	# Default: 256
+	# Range: 16 ~ 4096
+	privateHighlightMaxScannedEntities = 256
+	#Items are immune to fire/explosion / 掉落物防火防爆
+	itemResilience = true
+	#Recover void-dropped items to safe position / 启用虚空掉落物安全恢复
+	voidRecovery = true
+	#Recover items from lava/fire to safe position / 启用岩浆/火焰掉落物安全恢复
+	hazardRecovery = true
+	#Enable detailed void recovery debug logs / 启用虚空恢复详细调试日志
+	voidRecoveryDebug = false
+	#Void recovery mode: DEATH_DROPS_ONLY or ALL_DROPS / 虚空恢复模式：仅死亡掉落或全部掉落
+	#Allowed Values: DEATH_DROPS_ONLY, ALL_DROPS
+	voidRecoveryMode = "DEATH_DROPS_ONLY"
+	#Window ticks for void recovery limiter / 虚空恢复限流窗口（tick）
+	# Default: 10
+	# Range: 1 ~ 1200
+	voidRecoveryWindowTicks = 10
+	#Max recoveries in window before cooldown / 窗口内最大恢复次数
+	# Default: 3
+	# Range: 1 ~ 100
+	voidRecoveryMaxRecoveries = 3
+	#Cooldown ticks after reaching max recoveries / 达到上限后的冷却时长（tick）
+	# Default: 10
+	# Range: 1 ~ 1200
+	voidRecoveryCooldownTicks = 10
+	#Restore preserved/picked items to original slots / 还原到原始槽位
+	restoreSlots = true

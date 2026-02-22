@@ -1,0 +1,13 @@
+name = "Lenient Death For NeoForge"
+filename = "lenientdeath-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "696146c83972d7e88fcae465734a0fd7c99dc085"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7629027
+project-id = 1463091

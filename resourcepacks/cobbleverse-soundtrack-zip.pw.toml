@@ -1,0 +1,8 @@
+name = "resourcepacks/COBBLEVERSE Soundtrack.zip"
+filename = "COBBLEVERSE Soundtrack.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Zencal/cobbleverse-neoforge-zen/blob/master/resourcepacks/COBBLEVERSE%20Soundtrack.zip?raw=true"
+hash-format = "sha256"
+hash = "cb18f0eca067f2ddebf4a0f0dadd057eee32d7a3049c73944cf31352a9039243"

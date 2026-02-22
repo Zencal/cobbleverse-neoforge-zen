@@ -1,0 +1,29 @@
+# IntelliJ / JetBrains IDE files
+.idea/
+*.iml
+out/
+gen/
+
+# Packwiz specific files
+.packwiz/
+
+# Mods
+# Ignore all mod jars by default (managed by packwiz)
+mods/*.jar
+
+# EXCEPT for manual ones not on Modrinth/CurseForge
+!mods/cobblemon-battle-positions-1.1.3.jar
+!mods/cobblemon-journey-mounts-1.7.3-cobbleverse.jar
+
+# Resourcepacks, Datapacks and Shaderpacks
+# If you want to include all manual files, we just ensure they aren't ignored.
+# By default, everything is included unless specifically ignored.
+# We only need to ignore things that are automatically downloaded by packwiz.
+
+# Usually, packwiz downloads mods to mods/
+# If it also downloads resourcepacks to resourcepacks/, you might want to ignore those zips too.
+# Based on your setup, these seem to be manual or intended for git:
+# !resourcepacks/*.zip
+# !datapacks/*.zip
+# !shaderpacks/*.zip
+# !shaderpacks/COBBLEVERSE*

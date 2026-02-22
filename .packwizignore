@@ -1,0 +1,9 @@
+.idea/
+.gitignore
+.gitattributes
+.nojekyll
+instance.json
+instance.png
+packwiz-installer.jar
+packwiz-installer-bootstrap.jar
+resourcepacks/COBBLEVERSE Soundtrack.zip

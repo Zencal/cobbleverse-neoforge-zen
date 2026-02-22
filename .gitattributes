@@ -1,0 +1,2 @@
+* -text
+resourcepacks/COBBLEVERSE[[:space:]]Soundtrack.zip filter=lfs diff=lfs merge=lfs -text

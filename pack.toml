@@ -1,0 +1,16 @@
+name = "Cobbleverse NeoForge Zen"
+author = "Zen"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e239600d50f0219d503c8cc34318e55b1bd616c971b5e7675e047eaf23dc99d4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
+
+[options]
+acceptable-game-versions = ["1.21.1", "1.21", "1.20.1"]
