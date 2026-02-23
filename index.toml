@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "5282c004ccab9d8a7ca0fce89fb88360eede7263359a08855f2c4b8b378fe759"
+hash = "d26776448f4f98d8f83c546dc6c9aef1ef951e24ac72c0c1828ee7c2952c427b"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
