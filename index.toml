@@ -874,7 +874,7 @@ hash = "d3d43d652761b58b32d76003afb1ea065c76e9854beee93cd07182891d5474de"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "beec02887f9c2fa1fceb1f8dfa46c368a87f71a4a6a709b0ffe2e6ad0b2051ed"
+hash = "8c99d5563d47f5a7e06ad8cb693e6e1b251b3fc7a8255e0360ad79389a8b2769"
 
 [[files]]
 file = "config/repurposed_structures-neoforge/modded_loot.toml"
@@ -1193,6 +1193,16 @@ metafile = true
 [[files]]
 file = "mods/biome-replacer.pw.toml"
 hash = "7170c3cce8959cf23812283df3449750547e1cbc76ec118f1d78299ae78efa29"
+metafile = true
+
+[[files]]
+file = "mods/borderless-window.pw.toml"
+hash = "c15cf68301be3c07cd25295759f1e1a59aae0823894e07b30f4394cf1f990e8e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "c0c46fdc7e9ad31b975025a891abd5227562aae0107e79e8d8b6bb34acfa27a5"
 metafile = true
 
 [[files]]
