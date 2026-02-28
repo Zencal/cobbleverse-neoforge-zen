@@ -6,5 +6,6 @@
   "showOutOfCombat": true,
   "compactMode": false,
   "showBallComparison": false,
+  "hideUnencounteredInfo": true,
   "debugLogging": false
 }

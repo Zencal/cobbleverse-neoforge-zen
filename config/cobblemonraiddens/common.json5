@@ -4,13 +4,13 @@
 	// Weighted probability of each raid tier from Tier 1 to Tier 7 per dimension. Leave empty to use overworld/default. Default: {"minecraft:overworld": [9.0, 15.0, 25.0, 25.0, 20.0, 5.0, 1.0]}
 	"dimension_tier_weights": {
 		"minecraft:overworld": [
-			9.0,
-			15.0,
-			25.0,
-			25.0,
+			10.0,
+			16.0,
 			20.0,
-			5.0,
-			1.0
+			24.0,
+			22.0,
+			6.0,
+			2.0
 		]
 	},
 	// How long in seconds until raid dens reset (Set to -1 for no resets). Default: 7200
@@ -24,7 +24,7 @@
 	// Whether raid crystals can be broken. Default: true
 	"can_break": true,
 	// The reward distribution algorithm (Options: RANDOM, DAMAGE, SURVIVOR). Default: RANDOM
-	"reward_distribution": "RANDOM",
+	"reward_distribution": "DAMAGE",
 	// The maximum number of players in a raid before shared supporting moves are disabled. Default: 4
 	"max_players_for_support": 4,
 	// The amount of raid energy required to convert a raid shard. Default: 100

@@ -12,8 +12,8 @@ gen/
 mods/*.jar
 
 # EXCEPT for manual ones not on Modrinth/CurseForge
-!mods/cobblemon-battle-positions-1.1.3.jar
-!mods/cobblemon-journey-mounts-1.7.3-cobbleverse.jar
+!mods/cobblemon-battle-positions-*.jar
+!mods/cobblemon-journey-mounts-*-cobbleverse.jar
 
 # Resourcepacks, Datapacks and Shaderpacks
 # If you want to include all manual files, we just ensure they aren't ignored.

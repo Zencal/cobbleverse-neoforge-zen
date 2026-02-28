@@ -10,7 +10,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
-hash = "794e96df9fdd291b03ba4c66fc86b55ebe46636b878b6cf56621b3741fbdccd1"
+hash = "735e9084a86a5219ed7f4527f7411936c6a75cd92998ff24aac3595fc2466427"
 
 [[files]]
 file = "config/PastureLoot.json"
@@ -69,8 +69,12 @@ file = "config/cardinal-components-api.properties"
 hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
+file = "config/catchindicator-client.cfg"
+hash = "5841e1d36f8d2740512e71d8679dfbea12bfba47b5f356d8669970ec78fb7420"
+
+[[files]]
 file = "config/catchrate-display.json"
-hash = "fdae852ad234c899f32d7a1b1efe022d8a150c076c3559a76954b0f585828283"
+hash = "f0b173dee8b2b06965c46ba00e44895dee427e23463ab35613d580503df017f3"
 
 [[files]]
 file = "config/cobblecuisine.json"
@@ -102,15 +106,15 @@ hash = "6e3f0ed5aa64ae9843c1bb36c63f2122b726dc884d98f78d70dbbbde38c219f9"
 
 [[files]]
 file = "config/cobblemon-battle-extras.json"
-hash = "722fbe5b24594e35c23fbe92d363a1d73be242287880012af3b3b9e5a643603a"
+hash = "b0200526aecdf67a8d6f4ffc8883a10b93d35f4636b889a5a4bfdb47477ff449"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "128b12c10b94094b573d59e4c20dc5712fbee66bfc34d63e57fb99f13bf68258"
+hash = "2e3633691d40b1fbfd8e58915e8fb2352690e045a96e8f25af735a15615f6557"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
-hash = "38e51476a348329163fffd2c360dc1def3da977de081b62270b4af9df8a06a6e"
+hash = "96a5b9cd10fc488c5a214e1c1b3b97c4c2371d5091f8346a2104e28f038e6e84"
 
 [[files]]
 file = "config/cobblemon/starters.json"
@@ -134,7 +138,7 @@ hash = "1803860a71edd9f81e4b35b4191ae372b16dd4cfbb62f11720d65aaa5d5f33a0"
 
 [[files]]
 file = "config/cobblemonraiddens/common.json5"
-hash = "428e5adc38e6c4dfe519bf839de209baf851030b345af0e51b1bcf7fcb656a4a"
+hash = "2e0d95df997b89b2c894c02c755d81cfde03ac243b701a7769bd488f2f90603c"
 
 [[files]]
 file = "config/cobblemonraiddens/conditions.json5"
@@ -142,31 +146,31 @@ hash = "ddc73b1a539e1f78e8daed69e4795734a19dc5fc511d5309e8b34b4585baed49"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_five.json5"
-hash = "62464a85f32dbce27491ae9e8c43c676b21a482b4e8266de83b2fdd8d1209fb9"
+hash = "3d360b093424dfdc6b6debb71c97fafa59e50ba7f1bfc60eb0f272e7ca4640ca"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_four.json5"
-hash = "74b9d53787b5c33fda83dbb6582f2f0f258d6b1c6a7a5f19610939ec9cfe11c7"
+hash = "46a02276efbe34258cc1bd6a76288e3081bd1219131f404bc7f36917c8aa3130"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_one.json5"
-hash = "bd33e4279761965a27e8be4ae8c6f4744ff6e1e09b7329387d84d62463529cc4"
+hash = "e1882e29f20ba2acd0b75ca768a399499110618187bfe7453dd1147d74f37eae"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_seven.json5"
-hash = "1062bfe7a826cb9ae262b458b043aacb02b9f1a4597d1bc1d04e728ca0119424"
+hash = "9ea1303122fb6a4cd22b660e66ff989f3d26272f86de44f42b24b823dd98f376"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_six.json5"
-hash = "cddd56552c01fa9864c10f24c508ea9a2960a80f9c4bd761b120cd6d807dac75"
+hash = "be374e71bd61200434f7d391cd1d3435eeddd442e72b36c985ccf343c8ba70fa"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_three.json5"
-hash = "883cae22df07c27ea195e399057b403004e024d36a7df7b78f6c146b112458e9"
+hash = "982f82b48b611cd2a4e11cf30e1eb114ca19ff445740a568601928eb9b0220d0"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_two.json5"
-hash = "cc2010cc178a9e9bda6a7a2cedcb414a61f06b6c08495dee8470aa2d14942711"
+hash = "021dff6484fafaae786f867bc24ab33e4e38aaa1fa5ef869cead4767380ced83"
 
 [[files]]
 file = "config/cobblemontrialsedition-common.toml"
@@ -314,7 +318,7 @@ hash = "98d7ecdde12c615a7ef6183004a3ac81cad35226789fa2a99f2e268899ecbfb2"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "9e539071053975b61cbba9ce8c28aee4132b0ad44343f0bbd2024c2bf3ad0067"
+hash = "e15b879dc5a397502a9edef319c18040e8f19a6886010d1a1d4736afb1d54b94"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -377,6 +381,10 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "2340a11b4fde34f757c8e9189a4dd680a879ab1f34af783f61d35fd6b90f8859"
 
 [[files]]
+file = "config/fancymenu/assets/30th_anniversary.png"
+hash = "383c07d334acf758178bc67cae2042320fee30154481a9845eec24335435db12"
+
+[[files]]
 file = "config/fancymenu/assets/bg_test.png"
 hash = "59abc872c323c7070831fa97b4ba48840776a1ac36367692bec56070627b0c26"
 
@@ -409,6 +417,10 @@ file = "config/fancymenu/assets/pokedex_menu.png"
 hash = "c7b7168827fda61e10a91969dfd6e097a0be2fbdc78e7b171573a02fe9e38a5a"
 
 [[files]]
+file = "config/fancymenu/assets/pokedex_menu_30th.png"
+hash = "be74d2f3ff1eda85001897b8c62e728dce3009d985d4408e5fa1cd77e70a90d8"
+
+[[files]]
 file = "config/fancymenu/assets/slideshow_frame.png"
 hash = "1408dccaaaac27395c49e220c690ee67bd493067c16fbbee44a1668d2af179eb"
 
@@ -422,7 +434,7 @@ hash = "546287673d2e087e2238c983f30c74aa0d9bc96966e5755c39b2aefc19a8a425"
 
 [[files]]
 file = "config/fancymenu/customization/cobbleverse_main.txt"
-hash = "104efa3ca7315a779cc6679f24aa55504dd0e146c69d7a144752d9b756ec4cc1"
+hash = "20784edc44e015135a62bcce24478bf1cf47fcaf9778654fd6d22c3f7707ae88"
 
 [[files]]
 file = "config/fancymenu/customization/cobbleverse_multiplayer_screen.txt"
@@ -430,7 +442,11 @@ hash = "c98d1d333807125714c14cea4214101346487ee540b98704d79b07084901f291"
 
 [[files]]
 file = "config/fancymenu/customization/cobbleverse_pause_menu.txt"
-hash = "5ab5e7753d907f89a75f416c7c859f586ef52d0ba5b2c247dc0433745b62b3fd"
+hash = "842aa3e4f856b2df9b2ff219a8678c67d7cda5118b16d8962f90a4151ab06a80"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -551,6 +567,10 @@ hash = "4bb82c0aa93c322938829088e67970367942008c56ddbe43f19543e285bd8ea1"
 [[files]]
 file = "config/fancymenu/slideshows/pokedex/images/RegisteelTemple.png"
 hash = "7fde70fa5390b1cfb8e9f82b0c8844c8e07d88dec05c75b6a11927ff4621f898"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/RidingTorterraTogether.png"
+hash = "4fa32f7ad5532b9a5be31a957591a95af164b54a48e5861d93180c6561b1e2e5"
 
 [[files]]
 file = "config/fancymenu/slideshows/pokedex/images/SabrinaGym.png"
@@ -918,7 +938,7 @@ hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e77f474883164fc4c4875d3ebfa33eeb38f776fcbb5c352a5ac2aa779dfdd6db"
+hash = "a8778c2b21974f07fd40653aaf88a03505732f31efe0896f7633e2292e2a34b0"
 
 [[files]]
 file = "config/respackopts/_respackopts.conf"
@@ -986,7 +1006,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "dc33f6dda9756338a7f1d60a02692c3f4f4e9720f4870ca603d74caf20f7ceb3"
+hash = "e4f92bd13e983081f269a900a5f1fa3122671d7d1e29220d72d3d7d678681814"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1009,20 +1029,12 @@ file = "config/toms_storage-server.toml"
 hash = "cd440f2b4f264e756b927c1b6f59cd60b677d1b27774842ca86cef03c5556d49"
 
 [[files]]
-file = "config/transition.json"
-hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
-
-[[files]]
-file = "config/trender.json"
-hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
-
-[[files]]
 file = "config/vanillabackport-client.toml"
 hash = "819187cde5f6525f2877201be3991d32d01f5dd3ad6ead94308b1ab67f363971"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
-hash = "0506f8df4e9f84e5b5827243a42323a2996d39ed0d09b9eb6e20f0f8b05edb90"
+hash = "16ff5cdfa036e2f59668f1945eaf6bbddaa4a0ca78422c72ccfd40f4b645b264"
 
 [[files]]
 file = "config/via_romana.json"
@@ -1030,7 +1042,7 @@ hash = "d01b6cff9caa7bc82d013e779cac8c58c37623d68c658f1e2c36e3c72fbc71a6"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "818c0c5338c003dde320fdd0ea5e19b3a59b4da71123f802633fde68e73369bd"
+hash = "7ca66cbf88df7df433bf1ffda1e038e9044b9d9d807a96ab59211c71e7ea921c"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -1121,28 +1133,28 @@ file = "datapacks/COBBLEVERSE - No Hunger.zip"
 hash = "06de5f7ad7bd863cd6920334372053468a45c831eedb5b7991ac7a732efc6e8d"
 
 [[files]]
-file = "datapacks/COBBLEVERSE-DP-v27.zip"
-hash = "068644c4a5ace7911bc88aeb6edc990bbbe442eec34fa60d38b0ec5f0e1e2bb6"
+file = "datapacks/COBBLEVERSE-DP-v28.zip"
+hash = "5464be62a8c212b4310c85af1adcf971e647558f763f207b1052d7bff07e6a09"
 
 [[files]]
 file = "datapacks/COBBLEVERSE-Hoenn-DP.zip"
-hash = "fd1b36688be485bb0d6ce8e55f5f7e183d8fc2ddd4592dd1a7e44111698d860d"
+hash = "598d1bfb52829f42c7d7cda3c93135833029e61f9cee1f0d9bfc423e8aac91e9"
 
 [[files]]
 file = "datapacks/COBBLEVERSE-Johto-DP.zip"
-hash = "7fcf4422eee6572043c6a6c434fd3c18c6d30f942add5096808a871e25e52bfe"
+hash = "696a1400c44dd17c5acf3bfdb538981f68ca3845a14a1c10ca44e425467643a9"
 
 [[files]]
-file = "datapacks/COBBLEVERSE-Loot-DP-v10.zip"
-hash = "ccf39c758b095a1aeb2ea119c1c01299e64a116081ddcc1cbf45152ff34b7ecf"
+file = "datapacks/COBBLEVERSE-Loot-DP-v11.zip"
+hash = "68b07910f68d032cb12902115938c321c326819d85d60cc64c9f42e08be11e99"
 
 [[files]]
-file = "datapacks/COBBLEVERSE-RCT-DP-v17.zip"
-hash = "67b89c2f3c57b78e1aa5b7309cb76f4e5e096ef07d5d97c2f2ad6917cda600b4"
+file = "datapacks/COBBLEVERSE-RCT-DP-v18.zip"
+hash = "6d0bfc59d55439dac1bed065414da2db26430de330e5beb2dffb6343bd69eca6"
 
 [[files]]
 file = "datapacks/COBBLEVERSE-Sinnoh-DP.zip"
-hash = "cf5cb9ca30ce59bec77058e5bd0225b4d3b9e201be39db732e69831919c4fa22"
+hash = "1df8ceb18855e9d2db7fe7d07a507e24a2dba53270f56af0de8608788fec0b84"
 
 [[files]]
 file = "datapacks/PokeCenterPCs-DP.zip"
@@ -1243,8 +1255,13 @@ hash = "7bfb7c65d327bb58aa0e90092c334acd455c3c734cd9a0b42c4d2552275090ec"
 metafile = true
 
 [[files]]
+file = "mods/catch-indicator.pw.toml"
+hash = "7313c54c1153c7c2f6e6e849d05cf5d1f84b5305713382bf23f7f5dd3fca10e9"
+metafile = true
+
+[[files]]
 file = "mods/catch-rate-display.pw.toml"
-hash = "055bee56b3d371d57e310e823f5c40d871e785787caff46bcbcc9fb01c3c864a"
+hash = "428932f3ede01a34242b26fd061b12020445aca46ada18fd47fae27f81a7c150"
 metafile = true
 
 [[files]]
@@ -1274,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "1756b8bf840d0ec96680814b51e2d0a61ef844cfaa5a7d29dbab75b2dfaedddb"
+hash = "e3d2106f5ad3f061bf5d9edba996d9e006711c7c7df3c1a2e6285adc84757bc6"
 metafile = true
 
 [[files]]
@@ -1302,8 +1319,8 @@ hash = "c70e86c727c484964831bf18f88f66b42d54dc057be20bc99ce0abdbecdeea41"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-journey-mounts-1.7.3-cobbleverse.jar"
-hash = "c2984ae90391ebbdcdd353567b706c640f7ee8f575005fb3278324f64ed206e1"
+file = "mods/cobblemon-journey-mounts-1.7.30-cobbleverse.jar"
+hash = "8143cfa64c9e2622b4bafba400b1b770767012bd69d2167e1593616afa928635"
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
@@ -1317,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "d5c2b6e366430f7f379945b17eef4c6c085c1e06aedbd8627509486245792494"
+hash = "b0e198f7b7cac51ab5ecb3c0871e0be64d0f0ccc69048194be21857000e11b20"
 metafile = true
 
 [[files]]
@@ -1358,6 +1375,11 @@ metafile = true
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
 hash = "1ea3547c4de9f968efebd4aacedf11dad00069eceb4ae46b2aeb365a6d998e6c"
+metafile = true
+
+[[files]]
+file = "mods/cobbleworkers.pw.toml"
+hash = "7ab422ae7a3b9b95f52942d732ffa41bc67e73a055434f5069997d457efc91fa"
 metafile = true
 
 [[files]]
@@ -1687,7 +1709,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumymon.pw.toml"
-hash = "2cd0db8254978d1d81c752e8e39e25cd4d71e815b0d76abff3f5b3ac3a61bd00"
+hash = "e029431160f483e29a928b6481afec2e4db61c196c28709867e9b3fb279147d2"
 metafile = true
 
 [[files]]
@@ -1842,7 +1864,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
-hash = "bea60e40fe79a55c4ae9b0c6b7be6d91ababfa352b707cc0268b4757796d716f"
+hash = "53f51e4a5e14cebad2b932a62bdce4ee3817370a55d73a2cf85bf649d48ec0f6"
 metafile = true
 
 [[files]]
@@ -1932,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "c743ea0e4f9021ef5f2fd093006e04031da11b933a0a54d86ef77bc13f4965cb"
+hash = "952d230caf1d3af68206c802bd1730540320e8d7f3b8ce3af440c3d45b710c3c"
 metafile = true
 
 [[files]]
@@ -1962,7 +1984,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "90636b75638eaa7102b6d6098299ea500887a708130df081ba5aa9c7ba5d8927"
+hash = "4e848b8be831395dd52f7028b4aa8a0599f03ddfbd44c16808f3c5cc28fe12ec"
 metafile = true
 
 [[files]]
@@ -1991,11 +2013,11 @@ hash = "bb5d405c61acd8aad4379a5742079900ec2652462508a46f3611655f0ac4f17a"
 
 [[files]]
 file = "resourcepacks/COBBLEVERSE RCTmod RP.zip"
-hash = "bc3a17b4bca77dba92ece86145d7aec896c6f14c66e58a9d3819bdd07ffd9edf"
+hash = "72268fb062261ca35982e6d5c36859406313493d4f269d3ead49d76929d1df96"
 
 [[files]]
 file = "resourcepacks/COBBLEVERSE RP.zip"
-hash = "eea3007be551aa885a8977359110583e07ed33f7c476f14d488840e063fb5460"
+hash = "44ac9bcbf225a463fd68690a3d425a21f550e1bf1acbae8d2f02cfcb527ce218"
 
 [[files]]
 file = "resourcepacks/CavsCobbleMons RP.zip"

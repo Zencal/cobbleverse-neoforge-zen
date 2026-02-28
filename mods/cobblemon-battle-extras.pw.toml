@@ -1,13 +1,13 @@
 name = "Cobblemon Battle Extras"
-filename = "cobblemon-battle-extras-neoforge-1.8.28.jar"
+filename = "cobblemon-battle-extras-neoforge-1.8.30.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/IRekNJjw/cobblemon-battle-extras-neoforge-1.8.28.jar"
+url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/sO7raNaY/cobblemon-battle-extras-neoforge-1.8.30.jar"
 hash-format = "sha512"
-hash = "1997892ee4cd3331e9187d0399498dc5af992e197982fc78a162b05a4ac95e95619505f3147dd39a073d356f3291a69cc0b635dc16d2f45ef3cf6edeb750d4ad"
+hash = "e45c5b1b1d36f5b338c39b8d694a0bdb614662358dd7cf4cfac787efff28990472c0cdadfb3c0190b51bd0add8e1a344da624c9e313d7b589447665eea69df2c"
 
 [update]
 [update.modrinth]
 mod-id = "2iY8VFqL"
-version = "IRekNJjw"
+version = "sO7raNaY"

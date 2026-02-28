@@ -34,6 +34,7 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.brb.pin:key.keyboard.unknown
 key_accessories.key.open_accessories_screen:key.keyboard.h
+key_key.catchindicator.open_config:key.keyboard.unknown
 key_key.catchrate.toggle_hud:key.keyboard.unknown
 key_key.catchrate.show_comparison:key.keyboard.world.2
 key_key.catchrate.reset_position:key.keyboard.unknown
@@ -49,6 +50,9 @@ key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.r
 key_key.cobblemon.ridingfreelook:key.keyboard.left.alt
 key_key.cobblemon-battle-extras.battle_logs:key.keyboard.unknown
+key_key.cobblemonraiddens.mouse:key.keyboard.right.control
+key_key.cobblemonraiddens.accept:key.keyboard.f6
+key_key.cobblemonraiddens.deny:key.keyboard.f7
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fightorflight.startbattle:key.keyboard.g
 key_key.fightorflight.moveslot1:key.keyboard.unknown
