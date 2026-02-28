@@ -1256,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/catch-indicator.pw.toml"
-hash = "7313c54c1153c7c2f6e6e849d05cf5d1f84b5305713382bf23f7f5dd3fca10e9"
+hash = "97269fa7fc865a34f9de63bf771e9a8958021727c7c7887b8ddfb22fb9295393"
 metafile = true
 
 [[files]]

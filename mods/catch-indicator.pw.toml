@@ -1,6 +1,6 @@
 name = "Catch Indicator [Cobblemon Addon]"
 filename = "catchindicator-neoforge-1.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tpTcu2PM/versions/39RCTBhc/catchindicator-neoforge-1.4.jar"
