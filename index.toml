@@ -1618,6 +1618,11 @@ hash = "415ae259d7d6c92717710d6f80494d9f3c0884c6a2a35f993ad31e287f64632f"
 metafile = true
 
 [[files]]
+file = "mods/glassential-renewed.pw.toml"
+hash = "f4245f45f3237a0ef39e866a3e679ba5612f39e5cb79876ac49bb8f4c819b99b"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
