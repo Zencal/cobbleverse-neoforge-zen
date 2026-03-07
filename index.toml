@@ -1210,6 +1210,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/berryharvester.pw.toml"
+hash = "cd8450115156e357c9eccaabda05cc83f23780e88be02c810762ec5fc015050a"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "8071f5bd344fcf5c1ecfd4dbf8830fcab70052931fdf17f372356df2e5bbb7b5"
 metafile = true
