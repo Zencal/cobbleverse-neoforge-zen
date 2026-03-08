@@ -1165,6 +1165,10 @@ file = "datapacks/Terralith-DP.zip"
 hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
 
 [[files]]
+file = "datapacks/sculk_mixing.zip"
+hash = "a86ea3e3e7d76803c86493bc7887c52ff9d94976a3cac81370ee8002e3fc3d62"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
