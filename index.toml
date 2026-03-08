@@ -1318,6 +1318,16 @@ hash = "1293a640844bb49123c1784e6744989c2ac903860b6e869ef1d313ff61632237"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-emi-compat.pw.toml"
+hash = "ce758f361f9661881945ebf7ab1c570d4c99acb6179f0dfbeb8851e42026e0d3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-emi.pw.toml"
+hash = "1d530d3cefe90b67c56aa9fe1759a96e89276cc9d5a9be033f8b1ef2abe9942f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "63d31d5820a5fe31ddee48ecfe5d03acb56c56d16e7b64e940ef664127d220d4"
 metafile = true
