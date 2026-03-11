@@ -1,13 +1,13 @@
 name = "LumyMon"
-filename = "LumyMon-0.6.2.jar"
+filename = "LumyMon-0.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QAX8WiBc/versions/f8cntvJJ/LumyMon-0.6.2.jar"
+url = "https://cdn.modrinth.com/data/QAX8WiBc/versions/ykWGQkG6/LumyMon-0.6.3.jar"
 hash-format = "sha512"
-hash = "de91f3606d40d142c30d5cb2c64f994dba169776771f501bf3e7364c2ab06d369fb5d0c4241f6ec8ff763edba343e196dbf681d2bf262ba474a95d926074bf5e"
+hash = "879e4436a0d598a2cd19e08d91839cbf985518226b6f7e5cfd02cb3c2a034848ab07ac4deddc3cf47823c2f72cb73b5b8def07b1aaffb073bf8ccda09c7f66a0"
 
 [update]
 [update.modrinth]
 mod-id = "QAX8WiBc"
-version = "f8cntvJJ"
+version = "ykWGQkG6"
