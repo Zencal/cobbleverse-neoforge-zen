@@ -1748,7 +1748,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumymon.pw.toml"
-hash = "7566c9e92fb75edcde38ff9f01e8d509933e8f2e0bcba0d4d65720bd3b63e853"
+hash = "ff3e358e03d2b3b13ba86c3e64e104dc29636d1dc73cd964bba49a47020d1f8f"
 metafile = true
 
 [[files]]
