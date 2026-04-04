@@ -8,5 +8,7 @@
   "paleGardenResinGeneration": true,
   "ghastToGastly": true,
   "creakingToTrevenant": true,
-  "initialScreenVersion": 1
+  "giveCheersOnRaidStart": true,
+  "raidCheerCount": 3,
+  "initialScreenVersion": 0
 }

@@ -1,13 +1,13 @@
 name = "Lost Lore [Cobblemon]"
-filename = "lost_lore-neoforge-2.0.jar"
+filename = "lost_lore-neoforge-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/49cNEVjn/versions/EwFoTeLe/lost_lore-neoforge-2.0.jar"
+url = "https://cdn.modrinth.com/data/49cNEVjn/versions/IBU0110B/lost_lore-neoforge-2.1.1.jar"
 hash-format = "sha512"
-hash = "02225fef6f86526267d7a4378031cfb4a12632681f919f19f0ba8542773403c237ecc22b30911e60dc13a6d8e108cf5788acba8b1fabbf632200c41b0c1b20d7"
+hash = "42acabc8762b0fd185920d112bfba3e3997f05b93b80d224a8416e441684f1ecda2ed694c45969e224276bf04cad1607ab1153e79449ab7aa2a521b45dd61095"
 
 [update]
 [update.modrinth]
 mod-id = "49cNEVjn"
-version = "EwFoTeLe"
+version = "IBU0110B"

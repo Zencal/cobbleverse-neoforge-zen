@@ -33,7 +33,7 @@ layout_action_executable_blocks {
 
 element {
   interactable = true
-  source = &c&lCOBBLE&f&lVERSE &e1.7.30 &7[&a1.21.1&7]
+  source = &c&lCOBBLE&f&lVERSE &e1.7.31 &7[&a1.21.1&7]
   source_mode = direct
   shadow = true
   scale = 1.0

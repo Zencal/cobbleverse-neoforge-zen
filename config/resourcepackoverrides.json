@@ -10,36 +10,36 @@
     "continuity:default",
     "continuity:glass_pane_culling_fix",
     "file/Low Fire.zip",
-    "file/Comforts Modernized - V1.1.zip",
-    "file/Emissive-Cobblemon-Ores-1.7.zip",
-    "coloredeggs",
-    "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip",
-    "file/Cobblemon 3D Poké Rods 1.0.zip",
+    "file/Comforts Modernized.zip",
+    "file/Emissive Cobblemon Ores.zip",
+    "cobbreeding:coloredeggs",
+    "file/Classic Grass.zip",
+    "file/PokeRods3D.zip",
     "file/Canon PC Wallpapers.zip",
-    "file/Cobblemon Interface v1.6.0.zip",
-    "file/Cobblemon Interface Modded v1.9.4.zip",
-    "file/Poke Discs 1.20.x.zip",
-    "file/[V1.2] Original Pokemon Battle Music.zip",
-    "file/JigglyRadio1.4.zip",
-    "file/FreshAnimations_v1.10.3.zip",
-    "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-    "file/Icon Fresh 0.4.zip",
+    "file/Cobblemon Interface.zip",
+    "file/Cobblemon Interface Modded.zip",
+    "file/PokeDiscs.zip",
+    "file/Original Pokemon Battle Music.zip",
+    "file/JigglyRadio.zip",
+    "file/Fresh Animations.zip",
+    "file/Fresh Moves.zip",
+    "file/Fresh Icons.zip",
     "vanillabackport:freshly_animated",
-    "mod/cobblemon:resourcepacks/gyaradosjump",
-    "mod/cobblemon:resourcepacks/uniqueshinyforms",
-    "mod/mega_showdown:resourcepacks/gyaradosjumpingmega",
-    "mod/mega_showdown:resourcepacks/regionbiasmsd",
-    "mod/cobblemon:resourcepacks/regionbiasforms",
+    "cobblemon:gyaradosjump",
+    "cobblemon:uniqueshinyforms",
+    "mega_showdown:gyaradosjumpingmega",
+    "mega_showdown:regionbiasmsd",
+    "cobblemon:regionbiasforms",
     "file/ATMxMSD RP.zip",
-    "file/Fully Hisuian Starters 1.1.1.zip",
-    "file/EeveelutionsReimagined.zip",
+    "file/FullyHisuianStarters RP.zip",
+    "file/EeveelutionsReimagined RP.zip",
     "file/OJsAnimations RP.zip",
     "file/PlanetaCobblemon RP.zip",
     "file/GlitchDex RP.zip",
     "file/CavsCobbleMons RP.zip",
     "file/LackingMons RP.zip",
     "file/TDmon RP.zip",
-    "file/MelloMons.zip",
+    "file/MelloMons RP.zip",
     "file/MysticMons RP.zip",
     "file/MundialMons RP.zip",
     "file/MissingMons RP.zip",
@@ -54,12 +54,12 @@
   "pack_overrides": {
     "file/COBBLEVERSE RP.zip": {
       "title": "\"§e§lCOBBLEVERSE\"",
-      "description": "\"§a✔ Main Resource Pack\n§f© §3§cLUMY§bVERSE §f[v21]\"",
+      "description": "\"§a✔ Main Resource Pack\n§f© §3§cLUMY§bVERSE §f[v22]\"",
       "default_position": "TOP"
     },
     "file/COBBLEVERSE RCTmod RP.zip": {
       "title": "\"§e§lCOBBLEVERSE X RCTmod\"",
-      "description": "\"§a✔ Improved Skins for Trainers\n§f© §3§cLUMY§bVERSE §f[v13]\""
+      "description": "\"§a✔ Improved Skins for Trainers\n§f© §3§cLUMY§bVERSE §f[v14]\""
     },
     "file/COBBLEVERSE Soundtrack.zip": {
       "title": "\"§e§lCOBBLEVERSE Soundtrack\"",
@@ -95,7 +95,7 @@
       "title": "\"§e§lMysticMons\"",
       "description": "\"§a✔ Adds 4 New Pokémon Models\n§f© §3iMystxc\""
     },
-    "file/MelloMons.zip": {
+    "file/MelloMons RP.zip": {
       "title": "\"§e§lMelloMons\"",
       "description": "\"§a✔ New Animated Mew Model\n§f© §3MelloMatt & BeeZy\""
     },
@@ -126,11 +126,11 @@
       "title": "\"§e§lOJ's Animations\"",
       "description": "\"§a✔ Adds Animations to Pokémon\n§f© §3Ojcastillo\""
     },
-    "file/EeveelutionsReimagined.zip": {
+    "file/EeveelutionsReimagined RP.zip": {
       "title": "\"§e§lEeveelutions Reimagined\"",
       "description": "\"§a✔ Animations for Eeeveelutions\n§f© §3SK4N\""
     },
-    "file/Fully Hisuian Starters 1.1.1.zip": {
+    "file/FullyHisuianStarters RP.zip": {
       "title": "\"§e§lFully Hisuian Starters\"",
       "description": "\"§a✔ Look as their Final Evolution\n§f© §3SwordEnd\"",
       "force_compatible": true
@@ -139,23 +139,23 @@
       "title": "\"§e§lATM x MSD\"",
       "description": "\"§a✔ Adds 130+ Pokémon\n§f© §3Lvnatic and many others\""
     },
-    "mod/cobblemon:resourcepacks/regionbiasforms": {
+    "cobblemon:regionbiasforms": {
       "title": "\"§e§lRegion Bias Forms\"",
       "description": "\"§a✔ Visual Differences\n§f© §3Cobbled Studios §7(built-in)\""
     },
-    "mod/mega_showdown:resourcepacks/regionbiasmsd": {
+    "mega_showdown:regionbiasmsd": {
       "title": "\"§e§lRegion Bias Gmax\"",
       "description": "\"§a✔ Regional Gmax Textures\n§f© §3Mega Showdown §7(built-in)\""
     },
-    "mod/mega_showdown:resourcepacks/gyaradosjumpingmega": {
+    "mega_showdown:gyaradosjumpingmega": {
       "title": "\"§e§lGyarados Jump Mega\"",
       "description": "\"§a✔ Mega Textures\n§f© §3Mega Showdown §7(built-in)\""
     },
-    "mod/cobblemon:resourcepacks/uniqueshinyforms": {
+    "cobblemon:uniqueshinyforms": {
       "title": "\"§e§lShinies for Magikarp Jump\"",
       "description": "\"§a✔ Shiny Textures\n§f© §3Cobbled Studios §7(built-in)\""
     },
-    "mod/cobblemon:resourcepacks/gyaradosjump": {
+    "cobblemon:gyaradosjump": {
       "title": "\"§e§lGyarados Jump Patterns\"",
       "description": "\"§a✔ Gyarados Forms\n§f© §3Cobbled Studios §7(built-in)\""
     },
@@ -163,38 +163,38 @@
       "title": "\"§e§lFreshly Animated\"",
       "description": "\"§a✔ Adds New Mob Animations\n§f© §3ItsBlackgear §7(built-in)\""
     },
-    "file/Icon Fresh 0.4.zip": {
+    "file/Fresh Icons.zip": {
       "title": "\"§e§lXaero's X FreshAnimations\"",
       "description": "\"§a✔ FA Icons for Xaero's Minimap\n§f© §3Godkyo98\""
     },
-    "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip": {
+    "file/Fresh Moves.zip": {
       "title": "\"§e§lFresh Moves\"",
       "description": "\"§a✔ Animated Eyes for Players\n§f© §3TrasTick\""
     },
-    "file/FreshAnimations_v1.10.3.zip": {
+    "file/Fresh Animations.zip": {
       "title": "\"§e§lFresh Animations\"",
       "description": "\"§a✔ Dynamic Animated Entities\n§f© §3FreshLX\"",
       "force_compatible": true
     },
-    "file/JigglyRadio1.4.zip": {
+    "file/JigglyRadio.zip": {
       "title": "\"§e§lJigglyRadio\"",
       "description": "\"§a✔ Pokémon Soundpack\n§f© §3Swordsman69x\""
     },
-    "file/[V1.2] Original Pokemon Battle Music.zip": {
+    "file/Original Pokemon Battle Music.zip": {
       "title": "\"§e§lPokémon Battle Music\"",
       "description": "\"§a✔ Gen 1-9 Battle Tracks\n§f© §3RealDunkin\"",
       "force_compatible": true
     },
-    "file/Poke Discs 1.20.x.zip": {
+    "file/PokeDiscs.zip": {
       "title": "\"§e§lPoké Discs\"",
       "description": "\"§a✔ Re-Textures Minecraft Discs\n§f© §3Sosa\"",
       "force_compatible": true
     },
-    "file/Cobblemon Interface Modded v1.9.4.zip": {
+    "file/Cobblemon Interface Modded.zip": {
       "title": "\"§e§lInterface Modded\"",
       "description": "\"§a✔ Mod Supported GUI\n§f© §3VinnyStalck\""
     },
-    "file/Cobblemon Interface v1.6.0.zip": {
+    "file/Cobblemon Interface.zip": {
       "title": "\"§e§lCobblemon Interface\"",
       "description": "\"§a✔ Pokémon Inspired GUI\n§f© §3VinnyStalck\""
     },
@@ -202,24 +202,24 @@
       "title": "\"§e§lCanon PC Wallpapers\"",
       "description": "\"§a✔ Pokémon-themed PC Boxes\n§f© §3Dhi_holo\""
     },
-    "file/Cobblemon 3D Poké Rods 1.0.zip": {
+    "file/PokeRods3D.zip": {
       "title": "\"§e§l3D Poké Rods\"",
       "description": "\"§a✔ 3D models for Poké Rods\n§f© §3Akera099\""
     },
-    "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip": {
+    "file/Classic Grass.zip": {
       "title": "\"§e§lClassic Grass\"",
       "description": "\"§a✔ Pokémon Grass Textures\n§f© §3WizzStar\""
     },
-    "coloredeggs": {
+    "cobbreeding:coloredeggs": {
       "title": "\"§e§lColored Eggs\"",
       "description": "\"§a✔ Type-Based Pokémon Eggs\n§f© §3Ludichat31 §7(built-in)\""
     },
-    "file/Comforts Modernized - V1.1.zip": {
+    "file/Comforts Modernized.zip": {
       "title": "\"§e§lComforts Modernized\"",
       "description": "\"§a✔ Modern Comforts Textures\n§f© §3Pedro9006\"",
       "force_compatible": true
     },
-    "file/Emissive-Cobblemon-Ores-1.7.zip": {
+    "file/Emissive Cobblemon Ores.zip": {
       "title": "\"§e§lEmissive Cobblemon Ores\"",
       "description": "\"§a✔ Brilliant & Shining Ores\n§f© §3Jamesssssssssssssss\"",
       "force_compatible": true
@@ -261,7 +261,7 @@
       "title": "\"§e§lHigh Contrast\"",
       "hidden": true
     },
-    "mod/musicnotification:resourcepacks/dark_mode": {
+    "musicnotification:dark_mode": {
       "title": "\"§e§lMusic Notification: Dark Mode\"",
       "hidden": true
     },
@@ -269,7 +269,7 @@
       "title": "\"§e§lProgrammer Art\"",
       "hidden": true
     },
-
+    
     "file/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip": {
       "title": "\"§4✖ §c§lDO NOT ENABLE\"",
       "description": "\"§fCredits: §6§lATM x MSD\n§f© §3Lvnatic\"",
@@ -325,7 +325,7 @@
       "title": "\"§4✖ §c§lDO NOT ENABLE\"",
       "description": "\"§fCredits: §6§lGlitchDex\n§f© §3Glitch Ratt\"",
       "hidden": true
-    },
+    },    
     "file/z DO NOT ENABLE z [MundialMons - Credits Only].zip": {
       "title": "\"§4✖ §c§lDO NOT ENABLE\"",
       "description": "\"§fCredits: §6§lMundialMons\n§f© §3AlexioCraft\"",

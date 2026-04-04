@@ -57,7 +57,7 @@
 	#Spawn cap of trainers per player.
 	# Default: 12
 	# Range: 0 ~ 2147483646
-	maxTrainersPerPlayer = 3
+	maxTrainersPerPlayer = 6
 	#━━━━━━━━━━
 	#Total trainer spawn cap. This value may be increased for servers with higher expected
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
@@ -94,7 +94,7 @@
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn", "minecraft:the_end"]).
 	#In these dimensions trainers will never spawn.
-	dimensionBlacklist = [ "lumymon:nightmare", "legendarymonuments:distortion_world" ]
+	dimensionBlacklist = ["lumymon:nightmare", "legendarymonuments:distortion_world"]
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn" , "minecraft:the_end"]).
 	#Trainers may only spawn in these dimensions (unless the list is empty).
@@ -167,3 +167,6 @@
 	#━━━━━━━━━━
 	#If enabled additional information are printed to the log whenever a trainer spawns or despawns.
 	logSpawning = false
+	#━━━━━━━━━━
+	#If enabled additional information are printed to the log whenever a trainer repel rod is registered or unregistered.
+	logRepelRods = false

@@ -14,5 +14,11 @@
   "likoPendentDuration": 72000,
   "minBondingRequired": 200,
   "outSideMega": true,
-  "outSideUltraBurst": true
+  "outSideUltraBurst": true,
+  "teraHats": true,
+  "legacyTeraEffect": false,
+  "showBattleHUD": false,
+  "showStatChanges": false,
+  "showMoveTooltips": false,
+  "debugMode": false
 }
